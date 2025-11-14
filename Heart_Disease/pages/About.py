@@ -84,7 +84,7 @@ def run():
     ### 💬 Author
 
     *Developed by:* JASMINE SULTANA  
-    *GitHub:* [github.com/AyushSingh]https://github.com/Legend-Ayush  
+    *GitHub:* https://github.com/jasminesultana  
     *Framework:* Streamlit  
     *Model:* Logistic Regression  
 
@@ -97,4 +97,5 @@ def run():
     ---
     *Thank you for exploring! 💓*
     """
+
     )
